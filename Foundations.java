@@ -9,7 +9,7 @@ class Calculator {
     double power(double a, double b) { return Math.pow(a, b); }
 }
 
-public class day1 {
+public class Foundations {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); 
         Calculator calc = new Calculator();
