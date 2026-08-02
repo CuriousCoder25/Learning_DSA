@@ -47,6 +47,6 @@ public class Main {
             default : System.out.println("Wrong Operator X \n");
             break;
         }
-
+        System.out.println("\n = \t",result);
     }
 }
